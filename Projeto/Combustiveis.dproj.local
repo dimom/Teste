@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/06/10 09:52:05.000.021,=C:\Users\diega\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/06/10 09:52:29.000.208,C:\Users\diega\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=D:\ProjetoFortes\Projeto\Fontes\unPrincipal.dfm</Transaction>
+    <Transaction>2024/06/10 09:52:29.000.208,C:\Users\diega\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=D:\ProjetoFortes\Projeto\Fontes\unPrincipal.pas</Transaction>
+    <Transaction>2024/06/10 09:53:14.000.609,C:\Users\diega\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=D:\ProjetoFortes\Projeto\Combustiveis.dproj</Transaction>
+    <Transaction>2024/06/10 09:55:50.000.364,=D:\ProjetoFortes\Projeto\Unit2.pas</Transaction>
+    <Transaction>2024/06/10 09:56:13.000.083,D:\ProjetoFortes\Projeto\Unit2.dfm=D:\ProjetoFortes\Projeto\Fontes\unCadCombustivel.dfm</Transaction>
+    <Transaction>2024/06/10 09:56:13.000.083,D:\ProjetoFortes\Projeto\Unit2.pas=D:\ProjetoFortes\Projeto\Fontes\unCadCombustivel.pas</Transaction>
+    <Transaction>2024/06/10 09:57:02.000.457,=D:\ProjetoFortes\Projeto\Unit1.pas</Transaction>
+    <Transaction>2024/06/10 09:57:27.000.458,D:\ProjetoFortes\Projeto\Unit1.pas=D:\ProjetoFortes\Projeto\Fontes\unDM.pas</Transaction>
+    <Transaction>2024/06/10 09:57:27.000.458,D:\ProjetoFortes\Projeto\Unit1.dfm=D:\ProjetoFortes\Projeto\Fontes\unDM.dfm</Transaction>
+    <Transaction>2024/06/10 10:32:11.000.599,=D:\ProjetoFortes\Projeto\Unit1.pas</Transaction>
+    <Transaction>2024/06/10 10:32:22.000.845,D:\ProjetoFortes\Projeto\Unit1.pas=D:\ProjetoFortes\Projeto\Fontes\unTanque.pas</Transaction>
+    <Transaction>2024/06/10 10:32:22.000.845,D:\ProjetoFortes\Projeto\Unit1.dfm=D:\ProjetoFortes\Projeto\Fontes\unTanque.dfm</Transaction>
+    <Transaction>2024/06/10 10:41:13.000.441,D:\ProjetoFortes\Projeto\Fontes\unTanque.dfm=D:\ProjetoFortes\Projeto\Fontes\unCadTanque.dfm</Transaction>
+    <Transaction>2024/06/10 10:41:13.000.441,D:\ProjetoFortes\Projeto\Fontes\unTanque.pas=D:\ProjetoFortes\Projeto\Fontes\unCadTanque.pas</Transaction>
+    <Transaction>2024/06/10 10:45:31.000.874,=D:\ProjetoFortes\Projeto\Unit1.pas</Transaction>
+    <Transaction>2024/06/10 10:45:45.000.913,D:\ProjetoFortes\Projeto\Unit1.pas=D:\ProjetoFortes\Projeto\Fontes\unCadBomba.pas</Transaction>
+    <Transaction>2024/06/10 10:45:45.000.913,D:\ProjetoFortes\Projeto\Unit1.dfm=D:\ProjetoFortes\Projeto\Fontes\unCadBomba.dfm</Transaction>
+    <Transaction>2024/06/10 11:10:39.000.994,=D:\ProjetoFortes\Projeto\Unit1.pas</Transaction>
+    <Transaction>2024/06/10 11:10:51.000.792,D:\ProjetoFortes\Projeto\Unit1.dfm=D:\ProjetoFortes\Projeto\Fontes\unAbastecimento.dfm</Transaction>
+    <Transaction>2024/06/10 11:10:51.000.792,D:\ProjetoFortes\Projeto\Unit1.pas=D:\ProjetoFortes\Projeto\Fontes\unAbastecimento.pas</Transaction>
+    <Transaction>2024/06/10 12:07:57.636,=D:\ProjetoFortes\Projeto\Unit1.pas</Transaction>
+    <Transaction>2024/06/10 12:08:11.114,D:\ProjetoFortes\Projeto\Fontes\unRelAbastecimento.dfm=D:\ProjetoFortes\Projeto\Unit1.dfm</Transaction>
+    <Transaction>2024/06/10 12:08:11.114,D:\ProjetoFortes\Projeto\Fontes\unRelAbastecimento.pas=D:\ProjetoFortes\Projeto\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
